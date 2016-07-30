@@ -140,4 +140,8 @@ public class MainActivity extends AppCompatActivity {
         cursor.close();
         Log.d("tag", users.toString());
        }
+	   
+	   public void readme(){
+		   
+	   }
     }
