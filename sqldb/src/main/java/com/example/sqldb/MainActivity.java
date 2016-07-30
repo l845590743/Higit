@@ -144,4 +144,7 @@ public class MainActivity extends AppCompatActivity {
 	   public void readme(){
 		   
 	   }
+	   public static int getInt(){
+		   return 5；
+	   }
     }
